@@ -11,3 +11,4 @@ A featherduster. Duh.
 	- how are useful infraction locations reported when chunkers are modular?
 2. Document/text loaders
 3. Plugin loader for linter/chunker functions
+4. Support can wait for now--but evaluate how compatible the architecture is with various thread/pool/multiprocessor/distributed processing models; do what is reasonable to lay a foundation.
